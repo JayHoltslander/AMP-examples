@@ -1,5 +1,5 @@
 # AMP-examples
-Just some examples of nicely styled AMP pages out there in the wild.
+A collection of examples of nicely styled AMP pages out there in the wild.
 
 * [The Guardian](https://amp.theguardian.com/commentisfree/2017/feb/14/mike-flynn-resignation-trumps-nightmare-begun-mar-a-lago#top)
 * [Google](https://blog.google/products/maps/keep-track-your-favorite-places-and-share-them-friends/amp/)
